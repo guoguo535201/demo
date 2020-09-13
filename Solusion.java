@@ -1,7 +1,7 @@
 package com.peter.demo;
 
 /**
- * @author ：defeng.guo
+ * @author ：defeng.guo ---------------
  * @date ：Created in 2020/8/31 10:57
  * @description：给定两个字符串s和t， 写一个函数来决定是否t是s的重组词。你可以假设字符串只包含小写字母
  * @modified By：
